@@ -1,0 +1,1120 @@
+{
+  "currentWeekIdx": 6,
+  "checks": {
+    "W1_Dimanche_run": true,
+    "W0_Mardi_run": true,
+    "W0_Mercredi_run": true,
+    "W0_Jeudi_run": true,
+    "W0_Dimanche_run": true,
+    "W0_Dimanche_muscu": true,
+    "W0_Dimanche_mob": false,
+    "W1_Lundi_mob": true,
+    "W1_Mardi_run": true,
+    "W1_Mardi_muscu": true,
+    "W1_Mardi_mob": true,
+    "W1_Mercredi_run": true,
+    "W1_Mercredi_mob": true,
+    "W1_Jeudi_run": true,
+    "W1_Jeudi_mob": true,
+    "W1_Vendredi_plio": true,
+    "W1_Vendredi_muscu": true,
+    "W1_Samedi_run": true,
+    "W1_Samedi_muscu": true,
+    "W1_Samedi_mob": true,
+    "W1_Dimanche_mob": true,
+    "W1_validated": true,
+    "W0_validated": true,
+    "W0_Lundi_mob": true,
+    "W0_Dimanche_muscu_exo_0": true,
+    "W0_Dimanche_muscu_exo_1": true,
+    "W2_Lundi_mob": true,
+    "W2_Lundi_run": false,
+    "W2_Vendredi_muscu": true,
+    "W2_Vendredi_plio": true,
+    "W2_Mardi_muscu": true,
+    "W2_Mercredi_muscu": false,
+    "W2_Mercredi_mob": true,
+    "W2_Mardi_mob": true,
+    "W2_Jeudi_muscu": true,
+    "W2_Samedi_muscu": true,
+    "W2_Dimanche_muscu": true,
+    "W2_Mardi_run": true,
+    "W2_Mercredi_run": true,
+    "W2_Jeudi_run": true,
+    "W2_Samedi_run": true,
+    "W2_Samedi_mob": true,
+    "W2_Dimanche_run": true,
+    "W2_validated": true,
+    "W2_Dimanche_mob": true,
+    "W2_Dimanche_mob_exo_4": true,
+    "W2_Dimanche_mob_exo_1": true,
+    "W2_Dimanche_mob_exo_0": true,
+    "W3_Lundi_mob": true,
+    "W3_Vendredi_muscu": true,
+    "W3_Mardi_run": true,
+    "W3_Mercredi_run": true,
+    "W3_Mercredi_mob": true,
+    "W3_Jeudi_run": true,
+    "W3_Jeudi_mob": true,
+    "W3_Jeudi_mob_exo_4": true,
+    "W3_Jeudi_mob_exo_3": false,
+    "W3_Jeudi_mob_exo_2": false,
+    "W3_Jeudi_mob_exo_1": true,
+    "W3_Jeudi_mob_exo_0": true,
+    "W3_Vendredi_plio": true,
+    "W3_Mardi_muscu": true,
+    "W3_Samedi_run": true,
+    "W3_Dimanche_run": true,
+    "W3_validated": true,
+    "W4_Lundi_mob_exo_0": true,
+    "W4_Lundi_mob": true,
+    "W4_Mardi_run": true,
+    "W4_Mardi_mob": true,
+    "W4_Mercredi_run": true,
+    "W4_Mardi_muscu": true,
+    "W4_Mercredi_mob": true,
+    "W4_Jeudi_run": true,
+    "W4_Vendredi_plio": true,
+    "W4_Vendredi_mob": true,
+    "W4_Vendredi_muscu": true,
+    "W4_Samedi_run": true,
+    "W4_Dimanche_run": true,
+    "W4_validated": true,
+    "W4_Dimanche_mob": true,
+    "W5_Mardi_run": true,
+    "W5_Mercredi_run": true,
+    "W5_Jeudi_run": true,
+    "W5_Mercredi_mob": true,
+    "W5_Vendredi_plio": true,
+    "W5_Samedi_run": true,
+    "W5_Dimanche_run": true,
+    "W5_validated": true,
+    "W5_Vendredi_muscu": true,
+    "W5_Dimanche_mob": true,
+    "W6_Mardi_run": true,
+    "W6_Mercredi_run": true
+  },
+  "km": {
+    "W1_Dimanche": 14,
+    "W0_Mardi": 5,
+    "W0_Mercredi": 6.4,
+    "W0_Jeudi": 7,
+    "W0_Dimanche": 11,
+    "W1_Mardi": 7,
+    "W1_Mercredi": 6.4,
+    "W1_Jeudi": 10,
+    "W1_Samedi": 6.5,
+    "W2_Mardi": 11,
+    "W2_Mercredi": 7.1,
+    "W2_Jeudi": 11,
+    "W2_Samedi": 7.07,
+    "W2_Dimanche": 16.7,
+    "W3_Mardi": 9.5,
+    "W3_Mercredi": 7.7,
+    "W3_Jeudi": 13.08,
+    "W3_Samedi": 7.7,
+    "W3_Dimanche": 18.2,
+    "W4_Mardi": 9.3,
+    "W4_Mercredi": 5.88,
+    "W4_Jeudi": 9.05,
+    "W4_Samedi": 6.2,
+    "W4_Dimanche": 14.7,
+    "W5_Mardi": 10.1,
+    "W5_Mercredi": 7.44,
+    "W5_Jeudi": 17.1,
+    "W5_Samedi": 7,
+    "W5_Dimanche": 20.78,
+    "W6_Mardi": 10.3,
+    "W6_Mercredi": 7.53
+  },
+  "notes": {
+    "W1_Samedi_run": "Très bon en bpm",
+    "W2_Mardi_run": "C'était un peu dur mais bonnes sensations. Je suis allé un peu vite trop vite au début",
+    "W2_Mercredi_run": "prendre BCAA, manger pâte de fruits après 25 min, trop tôt je crois parce que 'etais bien quand même \n",
+    "W2_Jeudi_run": "Dernière série très dure, fais que 500m sur A21, très envie de toilette \n",
+    "W2_Dimanche_run": "Bien mangé bien bu, bien digéré . un peu dur la fin il faisait chaud ",
+    "W3_Mardi_run": "faire glycogène bas, c'était dur les sprints mais après tres bonnes sensations soir le 30/30",
+    "W3_Mercredi_run": "prendre BCAA, ça a bien été, pas de pâtes de fruits, full low glucose ",
+    "W3_Jeudi_run": "Première série compliquée, beaucoup de courbatures de mardi. Deuxième série plutôt à l'aise. Temps bien respectés",
+    "W3_Samedi_run": "Facile\n",
+    "W3_Dimanche_run": "manger + boire,  BCAA,  c'était très dur a tenir les 2000m, lendemain de soirée. J'ai aps pris la dernière pâte de fruit a 1h15. Mais sinon c'est bon niveau alimentation+boisson bien digéré ",
+    "W4_Mardi_run": "Visite de Marseille, un peu de d+",
+    "W4_Jeudi_run": "Baignade après les 15' puis j'ai refais 15 min derrière, 50' en tout ",
+    "W4_Samedi_run": "122 BPM de moyenne, a l'aise ",
+    "W4_Dimanche_run": "Bien mangé bien bu a 80g glucide/heure",
+    "W5_Mardi_run": "Mauvaises sensations, je me sentais fatigué et pas de puissance alors que c'est le retour de semaine de récup, ça me t'irait un peu au psoas et tendons. Rien de grave non plus mais souffle court ",
+    "W5_Mercredi_run": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez. Les respi ça va un peu mieux au fur et à mesure mais ça reste dur, je ralentis a 7min/km pour bien tenir les 10\" sans air ",
+    "W5_Jeudi_run": "Pas très bien dormi, les 9' c'était nickel niveau allure, les 5' A10 c'était compliqué, j'étais a 3'45 /km et 3'50 le dernier, pas simple simple. Une pâte de fruit sur cette séance ",
+    "W5_Dimanche_run": "manger + boire,  BCAA. Pour manger ça s'est très bien passé j'ai juste oublié la dernière patte de fruits à 1h45. J'ai eu des très bonnes sensations, l'allure était un peu compliqué à tenir à certains moments mais ça l'a fait jusqu'au bout sans trop trop de difficultés. ",
+    "W6_Mardi_run": "Assez à l'aise \n"
+  },
+  "custom_details": {
+    "W2_Mardi_detail": "20' EF + 12' prog (6'30/km → 4'15/km) + 8 x 400m A10 (1' EF récup) + 10' EF",
+    "W3_Mardi_detail": "20' EF + 10 x 15\" sprint (récup descente marchée) + 5' EF + 10 x 30\"/30\" A5 + 10' EF",
+    "W3_Jeudi_detail": "20' EF + 2 x (9' à 4'30 + 1'30 EF + 5' A10 + 4' EF) + 10' EF"
+  },
+  "migrated_v6": true,
+  "MUSCU_DATA": {
+    "Lundi": {
+      "muscle": "Repos",
+      "exos": [],
+      "exec": "",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    },
+    "Mardi": {
+      "muscle": "Abdos",
+      "exos": [
+        "Crunchs lestés",
+        "Rotation bassin",
+        "Plank to Bear transition"
+      ],
+      "exec": "3 séries | 15 rep | 1'30 entre séries & exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    },
+    "Mercredi": {
+      "muscle": "Triceps",
+      "exos": [
+        "Tirage élastique",
+        "Dips",
+        "Pompes mains serrées"
+      ],
+      "exec": "3 séries | 8-12 rep | 1'45 entre séries – 1'30 entre exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    },
+    "Jeudi": {
+      "muscle": "Épaules",
+      "exos": [
+        "Position aigle",
+        "Élévations Latérales",
+        "Développé militaire"
+      ],
+      "exec": "3 séries | 8-12 rep | 1'45 entre séries – 1'30 entre exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    },
+    "Vendredi": {
+      "muscle": "Dos",
+      "exos": [
+        "Tractions ou Rowing",
+        "Fermer les omoplates en position aigle"
+      ],
+      "exec": "3 séries | 8-12 rep | 1'45 entre séries – 1'30 entre exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ],
+      "plio_exos": [
+        {
+          "name": "Proprioception par jambe",
+          "sets": [
+            "1'",
+            "1'30",
+            "2'"
+          ],
+          "recup": null
+        },
+        {
+          "name": "Squats par jambe",
+          "sets": [
+            "10",
+            "15",
+            "10"
+          ],
+          "recup": null
+        },
+        {
+          "name": "Squats complet",
+          "sets": [
+            "10",
+            "10",
+            "10"
+          ],
+          "recup": "1'"
+        },
+        {
+          "name": "Corde à sauter, lesté",
+          "sets": [
+            "50",
+            "50",
+            "50"
+          ],
+          "recup": "45\""
+        },
+        {
+          "name": "Squats, lesté",
+          "sets": [
+            "10",
+            "10",
+            "10"
+          ],
+          "recup": "1'30"
+        },
+        {
+          "name": "Calf raises, lesté",
+          "sets": [
+            "15",
+            "20",
+            "25"
+          ],
+          "recup": null
+        },
+        {
+          "name": "Fentes sautées",
+          "sets": [
+            "10",
+            "10",
+            "10"
+          ],
+          "recup": "1'30"
+        }
+      ]
+    },
+    "Samedi": {
+      "muscle": "Pecs",
+      "exos": [
+        "Bench",
+        "Dips",
+        "Pompes serrées"
+      ],
+      "exec": "3 séries | 8-12 rep | 1'45 entre séries – 1'30 entre exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    },
+    "Dimanche": {
+      "muscle": "Biceps",
+      "exos": [
+        "Biceps curls longue barre",
+        "Biceps marteau"
+      ],
+      "exec": "3 séries | 8-12 rep | 1'45 entre séries – 1'30 entre exos | Montée rapide – Maintien 1s – Descente 2s (2-1-X-0)",
+      "mob_exos": [
+        {
+          "exo": "Position dos creux/dos rond",
+          "rep": "10 de chaque"
+        },
+        {
+          "exo": "Étirement psoas",
+          "rep": "10 par jambe"
+        },
+        {
+          "exo": "Massage pistolet masseur",
+          "rep": "1-2 min par muscle"
+        },
+        {
+          "exo": "Respiration profonde et lente ventre puis torse",
+          "rep": "10 cycles"
+        },
+        {
+          "exo": "Roulage de dos debout",
+          "rep": "5"
+        }
+      ]
+    }
+  },
+  "WEEKS_DATA": [
+    {
+      "bloc": "BLOC 1 :   Transition  &  Re-athlétisation",
+      "week": "Semaine 1",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "17/08"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "\"20' EF + 10 x (30\"\" A10 + 30\"\" EF) + 10' EF\"",
+          "date": "18/08"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "19/08",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 2 x 8' 4'20/km (récup 2' EF) + 10' EF",
+          "date": "20/08",
+          "note": "sur tapis, facile, sous la chaleur"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "21/08"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "22/08",
+          "note": "pas fait pas le temps"
+        },
+        "Dimanche": {
+          "type": "EF",
+          "detail": "1h10 EF",
+          "date": "23/08"
+        }
+      },
+      "name": "Transition & Re-athlétisation 1"
+    },
+    {
+      "bloc": "BLOC 1 :   Transition  &  Re-athlétisation",
+      "week": "Semaine 2",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "24/08"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "\"20' EF + 2 x (8 x (30\"\" A10 (3'35) + 30\"\" EF) + 10' EF\"",
+          "date": "25/08",
+          "note": "pas fait, ostéo"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "26/08",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 3 x 6' A42 (récup 2' EF) + 10' EF",
+          "date": "27/08",
+          "note": "c'était dur, mal au bide + chaleur"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "28/08"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "29/08"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h10 EF + 2 x 5' A42 (récup 2' EF) + 10' EF",
+          "date": "30/08",
+          "note": "manger + boire"
+        }
+      },
+      "name": "Transition & Re-athlétisation 2"
+    },
+    {
+      "bloc": "BLOC 2 :   Préparation Générale",
+      "week": "Semaine 3",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "31/08"
+        },
+        "Mardi": {
+          "type": "Seuil/Spécifique",
+          "detail": "\"20' EF + 12' prog (6'30/km → 4'15/km) + 8 x 400m A10 (1' EF récup) + 10' EF\"",
+          "date": "01/09",
+          "note": "faire glycogène bas"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "02/09",
+          "note": "prendre BCAA"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 3 x (1km A42 + 1'15 EF + 1km A21 + 1'40 EF) + 10' EF",
+          "date": "03/09",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "04/09"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "05/09"
+        },
+        "Dimanche": {
+          "type": "Seuil/Spécifique",
+          "detail": "1h35 prog (6'30 → 6' au milieu → 15' dernières 4'55)",
+          "date": "06/09"
+        }
+      },
+      "name": "Réveiller la VMA et le recyclage du lactate"
+    },
+    {
+      "bloc": "BLOC 2 :   Préparation Générale",
+      "week": "Semaine 4",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "07/09"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "\"20' EF + 10 x 15\"\" sprint (récup descente marchée) + 5' EF + 10 x 30\"\"/30\"\" A5 + 10' EF\"",
+          "date": "08/09",
+          "note": "faire glycogène bas"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "09/09",
+          "note": "prendre BCAA"
+        },
+        "Jeudi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 2 x (9' à 4'30 + 1'30 EF + 5' A10) 4' EF récup entre + 10' EF",
+          "date": "10/09"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "11/09"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "12/09"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h EF + 3 x (2000m A42 + 1000m 5'30) + 10' EF",
+          "date": "13/09",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Puissance musculaire et Seuil Mixte"
+    },
+    {
+      "bloc": "BLOC 2 :   Préparation Générale",
+      "week": "Semaine 5",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "14/09"
+        },
+        "Mardi": {
+          "type": "Vitesse Chill",
+          "detail": "1h EF + 5 x 100m prog + 10' EF",
+          "date": "15/09"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "16/09",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 15' A42 + 10' EF",
+          "date": "17/09"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "18/09"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "19/09"
+        },
+        "Dimanche": {
+          "type": "EF",
+          "detail": "1h30 EF",
+          "date": "20/09"
+        }
+      },
+      "name": "Assimilation/ Repos"
+    },
+    {
+      "bloc": "BLOC 3 :   Spécifique Semi-Marathon  &  Seuil",
+      "week": "Semaine 6",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "21/09"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "20' EF + 10 x 400m A10 (1' EF récup) + 10' EF",
+          "date": "22/09"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "23/09",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 3 x (9' à 4'20/km + 1'30 EF + 5' A10 + 3'30 EF) + 10' EF",
+          "date": "24/09"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "25/09"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "26/09"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h15 EF + 3 x (2000m A42 + 1000m EF) + 10' EF",
+          "date": "27/09",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Introduction aux changements d'allures"
+    },
+    {
+      "bloc": "BLOC 3 :   Spécifique Semi-Marathon  &  Seuil",
+      "week": "Semaine 7",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "28/09"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "20' EF + 6 x 800m A10 (2' EF récup) + 10' EF",
+          "date": "29/09"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "30/09",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 4 x (1000m A42 + 1'15 EF + 1000m A21 + 1'40 EF) + 10' EF",
+          "date": "01/10"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "02/10"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "03/10"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h EF + 2 x (4000m A42 + 1000m à 5'30/km) + 10' EF",
+          "date": "04/10",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Le \"Lactate Shuttle\""
+    },
+    {
+      "bloc": "BLOC 3 :   Spécifique Semi-Marathon  &  Seuil",
+      "week": "Semaine 8",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "05/10"
+        },
+        "Mardi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 4 x 8' A21 (2' EF récup) + 10' EF",
+          "date": "06/10"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "55' EF",
+          "date": "07/10",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 30' à 4'30/km + 3' EF + 15' A42 + 10' EF",
+          "date": "08/10"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "09/10"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "10/10"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h20 EF + 3 x (3000m A42 + 1000m à 5'30/km) + 10' EF",
+          "date": "11/10",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Le seuil de Seiler & L'endurance longue"
+    },
+    {
+      "bloc": "BLOC 3 :   Spécifique Semi-Marathon  &  Seuil",
+      "week": "Semaine 9",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "12/10"
+        },
+        "Mardi": {
+          "type": "Vitesse Chill",
+          "detail": "40' EF + 6 sprints prog 15s + 10' EF",
+          "date": "13/10"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "14/10",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "15' EF + 2 x 10' A42 (2' EF récup) + 10' EF",
+          "date": "15/10",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Repos + mobilité",
+          "date": "16/10"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "17/10"
+        },
+        "Dimanche": {
+          "type": "EF",
+          "detail": "1h15 EF",
+          "date": "18/10"
+        }
+      },
+      "name": "Assimilation/ Repos"
+    },
+    {
+      "bloc": "Bloc 4 :   Spécifique Marathon  &  Pics de Volume",
+      "week": "Semaine 10",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "19/10"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "20' EF + 12 x 400m A10 (1' EF récup) + 10' EF",
+          "date": "20/10"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "21/10",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "25' EF + 6 x (1000m A42 + 1000m 5'30/km) + 10' EF",
+          "date": "22/10",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "23/10"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "24/10"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "1h15 EF + 3 x (3000m A42 + 1000m à 5'30/km) + 10' EF",
+          "date": "25/10",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Introduction au volume spécifique"
+    },
+    {
+      "bloc": "Bloc 4 :   Spécifique Marathon  &  Pics de Volume",
+      "week": "Semaine 11",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "26/10"
+        },
+        "Mardi": {
+          "type": "Seuil/Spécifique",
+          "detail": "20' EF + 3 x 2000m A21 (3' EF récup) + 10' EF",
+          "date": "27/10"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "55' EF",
+          "date": "28/10",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 3 x (9' A42 + 1'30 EF + 5' A10 + 3'30 EF) + 10' EF",
+          "date": "29/10",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie + mobilité",
+          "date": "30/10"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "50' EF",
+          "date": "31/10"
+        },
+        "Dimanche": {
+          "type": "Vitesse Chill",
+          "detail": "2h30 à 6'05/km avec 15 dernières minutes autour de 5'00/km",
+          "date": "01/11"
+        }
+      },
+      "name": "Résistance musculaire et Seuil"
+    },
+    {
+      "bloc": "Bloc 4 :   Spécifique Marathon  &  Pics de Volume",
+      "week": "Semaine 12",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "02/11"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "20' EF + 4 x 1500 A10 (3' récup) + 10' EF",
+          "date": "03/11"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "1h EF",
+          "date": "04/11",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "35' EF + 10km A42 + 1km EF + 8km A42+ (4'05-4'10/km) + 10' EF (C'est une séance test)",
+          "date": "05/11",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Pliométrie légère + mobilité",
+          "date": "06/11"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "07/11"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "15km EF + 10km A42 + 5km EF chill + 10' EF",
+          "date": "08/11",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "La séance \"Spécial Bloc\""
+    },
+    {
+      "bloc": "Bloc 4 :   Spécifique Marathon  &  Pics de Volume",
+      "week": "Semaine 13",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "09/11"
+        },
+        "Mardi": {
+          "type": "Vitesse Chill",
+          "detail": "40' EF + 5 sprints prog 15s + 10' EF",
+          "date": "10/11"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "45' EF",
+          "date": "11/11",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 3 x 2000 A42 (2' EF récup) + 10' EF",
+          "date": "12/11",
+          "note": "manger + boire, BCAA"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "13/11"
+        },
+        "Samedi": {
+          "type": "Vitesse Chill",
+          "detail": "35' EF + 3 sprints très prog de 15s + 10' EF",
+          "date": "14/11"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "21km A42 (séance test) + 10' EF",
+          "date": "15/11",
+          "note": "manger + boire,  BCAA"
+        }
+      },
+      "name": "Le Semi de validation"
+    },
+    {
+      "bloc": "Bloc 5 :   L'Affûtage",
+      "week": "Semaine 14",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "16/11"
+        },
+        "Mardi": {
+          "type": "VMA/Vitesse",
+          "detail": "20' EF + 8 x 400m A10 (récup 1' EF) + 10' EF",
+          "date": "17/11"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "18/11",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Allure Marathon",
+          "detail": "20' EF + 3 x 2000 A42 (2' EF récup) + 10' EF",
+          "date": "19/11",
+          "note": "manger + boire"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Mobilité",
+          "date": "20/11"
+        },
+        "Samedi": {
+          "type": "EF",
+          "detail": "40' EF",
+          "date": "21/11"
+        },
+        "Dimanche": {
+          "type": "Allure Marathon",
+          "detail": "50' EF + 3000m A42 + 10' EF",
+          "date": "22/11",
+          "note": "manger + boire"
+        }
+      },
+      "name": "Début de la décharge (~40% de volume en moins)"
+    },
+    {
+      "bloc": "Bloc 5 :   L'Affûtage",
+      "week": "Semaine 15",
+      "days": {
+        "Lundi": {
+          "type": "Repos",
+          "detail": "REPOS",
+          "date": "23/11"
+        },
+        "Mardi": {
+          "type": "Allure Marathon",
+          "detail": "15' EF + 3 x 1000M A42 (récup 2' EF) + 10' EF",
+          "date": "24/11",
+          "note": "manger + boire"
+        },
+        "Mercredi": {
+          "type": "EF",
+          "detail": "30' EF",
+          "date": "25/11",
+          "note": "respi nez 20' +  10 x (10\" apnée (poumons vides) + 20\" nez)  + reste nez"
+        },
+        "Jeudi": {
+          "type": "Vitesse Chill",
+          "detail": "15' EF + 8 x (1' A42 + 1' EF) + 10' EF",
+          "date": "26/11"
+        },
+        "Vendredi": {
+          "type": "Repos",
+          "detail": "Mobilité",
+          "date": "27/11"
+        },
+        "Samedi": {
+          "type": "Vitesse Chill",
+          "detail": "20' EF + 3 sprints très prog 100m + 10' EF",
+          "date": "28/11"
+        },
+        "Dimanche": {
+          "type": "Marathon La Rochelle !!",
+          "detail": "",
+          "date": "29/11"
+        }
+      },
+      "name": "La semaine de course (~60% de volume en moins)"
+    }
+  ],
+  "custom_allures": {
+    "EF": "5’30-6’15/km",
+    "vLT1": "~4'30/km",
+    "vLT2": "~3'55/km",
+    "A42": "4’15/km",
+    "A21": "3’50-55/km",
+    "A10": "3’40/km",
+    "A5": "3’35/km"
+  },
+  "custom_alim": {
+    "optA_boisson": "150 mL St Yorre + 320mL eau + 20mL sirop + 16g sucre (32g glucide)",
+    "optA_manger": "1 Pâte de fruit (21g glucide)",
+    "optB_boisson": "250 mL St Yorre + 250mL eau +  22g sirop (18g glucides) + 15g sucre (15g glucides) = 33g glucides",
+    "optB_manger": "2 Pâtes de fruit = 42g glucides"
+  }
+}
